@@ -1,0 +1,9 @@
+Class Average: 77.50
+Highest Grade: 96.0 (Harry Brook)
+Lowest Grade: 56.0 (Ben Stokes)
+
+Students Above 70:
+- Sam Curran (85.0)
+- Moeen Ali (72.0)
+- Joe Root (91.0)
+- Harry Brook (96.0)
